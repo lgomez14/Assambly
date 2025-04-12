@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99be111a-2bbf-4d6c-960a-c35fb7c9a5d7": {
+      "ProjectGuid": "99be111a-2bbf-4d6c-960a-c35fb7c9a5d7",
+      "DisplayName": "LaminadoraIndustrialWebService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

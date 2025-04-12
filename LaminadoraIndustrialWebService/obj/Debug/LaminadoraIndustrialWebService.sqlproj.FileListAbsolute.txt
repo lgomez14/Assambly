@@ -1,0 +1,235 @@
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\RestClient.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\RestSharp.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Newtonsoft.Json.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\RestSharp.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Newtonsoft.Json.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+E:\DESARROLLO_OUT\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\RestClient.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\RestSharp.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Newtonsoft.Json.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\RestSharp.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Newtonsoft.Json.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+E:\DESARROLLO_OUT\LaminadoraConsumoFel\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+D:\DESARROLLO\App Data\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlprojAssemblyReference.cache
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+X:\CF DESARROLLO\LAMINADORA\ASEEMBLYS\LaminadoraIndustrialWebService (12)\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlprojAssemblyReference.cache
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+X:\CF DESARROLLO\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlprojAssemblyReference.cache
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\6 empresas\DLL VIGENTE\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\6 empresas\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+D:\DATA\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\CODIGO\FEL CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+D:\DATA_CENTRAL_ONE\CODE\DLL VIGENTE MULTI BODEGA - DESARROLLO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA_2\CODIGO\LaminadoraIndustrialWebService\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA_2\CODIGO\DLLVIGENTEATANACIO\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\XELA\BASE DE DATOS\CODE\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\Laminado.3DE43823.Up2Date
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+D:\DESARROLLO\FEL\DLLVIGENTE_XELA-20250306T205636Z-001\DLLVIGENTE_XELA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dacpac
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\bin\Debug\LaminadoraIndustrialWebService.pdb
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.AssemblyReference.cache
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\Model.xml
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\refactor.xml
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\postdeploy.sql
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\predeploy.sql
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.sqlproj.CopyComplete
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.dll
+C:\DATA\DLL LAMINA\DLL LAMINA\LaminadoraIndustrialWebService\obj\Debug\LaminadoraIndustrialWebService.pdb

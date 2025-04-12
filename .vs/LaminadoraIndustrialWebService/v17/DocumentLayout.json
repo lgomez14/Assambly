@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\SolicitaFirma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|solutionrelative:LaminadoraIndustrialWebService\\ClaseServicios\\SolicitaFirma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\AnulaFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|solutionrelative:LaminadoraIndustrialWebService\\ClaseServicios\\AnulaFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\PostRetornaPdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|solutionrelative:LaminadoraIndustrialWebService\\ClaseServicios\\PostRetornaPdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\RegistraFirma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|solutionrelative:LaminadoraIndustrialWebService\\ClaseServicios\\RegistraFirma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\RetornaPdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BE111A-2BBF-4D6C-960A-C35FB7C9A5D7}|LaminadoraIndustrialWebService\\LaminadoraIndustrialWebService.sqlproj|solutionrelative:LaminadoraIndustrialWebService\\ClaseServicios\\RetornaPdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostRetornaPdf.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\PostRetornaPdf.cs",
+              "RelativeDocumentMoniker": "LaminadoraIndustrialWebService\\ClaseServicios\\PostRetornaPdf.cs",
+              "ToolTip": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\PostRetornaPdf.cs",
+              "RelativeToolTip": "LaminadoraIndustrialWebService\\ClaseServicios\\PostRetornaPdf.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:10:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistraFirma.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\RegistraFirma.cs",
+              "RelativeDocumentMoniker": "LaminadoraIndustrialWebService\\ClaseServicios\\RegistraFirma.cs",
+              "ToolTip": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\RegistraFirma.cs",
+              "RelativeToolTip": "LaminadoraIndustrialWebService\\ClaseServicios\\RegistraFirma.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHIAAABtAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:10:40.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RetornaPdf.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\RetornaPdf.cs",
+              "RelativeDocumentMoniker": "LaminadoraIndustrialWebService\\ClaseServicios\\RetornaPdf.cs",
+              "ToolTip": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\RetornaPdf.cs",
+              "RelativeToolTip": "LaminadoraIndustrialWebService\\ClaseServicios\\RetornaPdf.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAABtAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:10:40.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolicitaFirma.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\SolicitaFirma.cs",
+              "RelativeDocumentMoniker": "LaminadoraIndustrialWebService\\ClaseServicios\\SolicitaFirma.cs",
+              "ToolTip": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\SolicitaFirma.cs",
+              "RelativeToolTip": "LaminadoraIndustrialWebService\\ClaseServicios\\SolicitaFirma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:10:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnulaFactura.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\AnulaFactura.cs",
+              "RelativeDocumentMoniker": "LaminadoraIndustrialWebService\\ClaseServicios\\AnulaFactura.cs",
+              "ToolTip": "D:\\DESARROLLO\\FEL\\DLLVIGENTE_XELA-20250306T205636Z-001\\DLLVIGENTE_XELA\\LaminadoraIndustrialWebService\\ClaseServicios\\AnulaFactura.cs",
+              "RelativeToolTip": "LaminadoraIndustrialWebService\\ClaseServicios\\AnulaFactura.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:10:40.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
